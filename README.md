@@ -4,7 +4,7 @@
   <img src="bug-report.jpg" alt="Logo" width="400" height="400">
   <h2 align="center">Bug Report</h2>
   <p align="center">
-    Menlakukan manual testing untuk mencari minimal 10 bug
+    Melakukan manual testing untuk mencari minimal 10 bug
   </p>
 </p>
 
